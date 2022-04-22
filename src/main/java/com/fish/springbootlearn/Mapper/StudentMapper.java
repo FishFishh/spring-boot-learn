@@ -1,8 +1,10 @@
 package com.fish.springbootlearn.Mapper;
-
+import org.apache.ibatis.annotations.Mapper;
 /**
- * 学生Mapper
+ * Student Mapper类
  */
 @Mapper
-public class StudentMapper {
+@
+public interface StudentMapper {
+
 }

@@ -8,7 +8,7 @@ school:
 
 spring:
   datasource:
-    driver-class-name: com.mysql.jdbc.Driver
+    driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
     password: 214057
     url: jdbc:mysql//localhost:3306/springbootlearn?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8&useSSL=true
