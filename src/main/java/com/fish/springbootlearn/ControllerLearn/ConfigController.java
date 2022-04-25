@@ -1,4 +1,4 @@
-package com.fish.springbootlearn.Controller;
+package com.fish.springbootlearn.ControllerLearn;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
